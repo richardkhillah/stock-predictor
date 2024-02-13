@@ -1,4 +1,4 @@
-# cs145-stock-prediction-project
+# Stock Prediction Machine Learning
 
 This project combines two broad categories of stock analysis, Fundamental Analysis and Technical Analysis, to learn correlations between news reports and stock market action as a means to predict next-day stock price direction given prior day news. 
 
